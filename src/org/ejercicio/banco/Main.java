@@ -6,5 +6,7 @@ public class Main{
 
         Cliente cliente2 = new Cliente("Galelito1",100000);
         CuentaBancaria cuenta2 = new CuentaBancaria(123456, cliente2,1200);
+
+        Cliente cliente3 = new Cliente("Yadira Poot",1400);
     }
 }
